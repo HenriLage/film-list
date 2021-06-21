@@ -1,0 +1,81 @@
+.home-content {
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(100% - 20px);
+  justify-content: space-around;
+  padding: 10px;
+
+}
+.home-card {
+  margin: 10px;
+  background-color: #424242;
+  color: white;
+  padding: 0;
+  width: 250px;
+  
+}
+
+
+
+
+.mat-card-subtitle{
+  color: white;
+ 
+}
+
+.filtro-listagem {
+  width: calc(100% - 50px);
+}
+
+.mat-card-image {
+ 
+  margin: auto;
+  display: block;
+  max-width: 100%;
+  
+}
+.mat-card-header{
+  color:white;
+  position:absolute;
+  margin: 0;
+  padding: 5px;
+  background-image:linear-gradient(to right, rgba(0,0,0,1)
+  ,rgba(0,0,0,0.9), rgba(0,0,0,0.7), rgba(0,0,0,0) 100%);
+  
+}
+
+.ver {
+  margin-top: auto;
+}
+
+.mat-card-subtitle{
+  margin: 0;
+}
+
+
+.expansion-panel-class:hover {
+  transform: scale(1.27);
+  z-index: 3000;
+  position: absolute;
+}
+
+.expansion-panel-class{
+  background-color: #424242;
+  padding: 0;
+  margin: 0;  
+}
+.mat-expansion-panel-header{
+  justify-content: center !important;
+  min-width: 250px;
+  min-height: 330px;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+    
+}
+.mat-card-content{
+  color: white
+}
+
+

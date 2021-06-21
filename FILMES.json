@@ -1,0 +1,113 @@
+{
+    "filmes": [
+    {
+        "id": 1,
+        "nome": "Avengers: Infinity War",
+        "ano": 2018,
+        "diretor": "Anthony Russo, Joe Russo",
+        "genero": "Sci-fi/Action",
+        "descricao": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality.",
+        "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Avengers_Infinity_War.jpg/250px-Avengers_Infinity_War.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Spider-Man: Far From Home",
+        "ano": 2019,
+        "diretor": "Jon Watts",
+        "genero": "Fantasy/Sci-fi",
+        "descricao": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+        "poster": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/Official_FFH_US_Poster.jpg/revision/latest?cb=20190522171521"
+    },
+    {
+        "id": 3,
+        "nome": "Thor: Ragnarok",
+        "ano": 2017,
+        "diretor": "Taika Waititi",
+        "genero": "Fantasy/Sci-fi",
+        "descricao": "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Cruella",
+        "ano": 2021,
+        "diretor": "Craig Gillespie",
+        "genero": "Comedy/Crime",
+        "descricao": "A live-action prequel feature film following a young Cruella de Vil.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rTh4K5uw9HypmpGslcKd4QfHl93.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Mortal Kombat",
+        "ano": 2021,
+        "diretor": "Simon McQuoid",
+        "genero": "Action/Fantasy/Adventure",
+        "descricao": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Tom Clancy's Without Remorse",
+        "ano": 2021,
+        "diretor": "Stefano Sollima",
+        "genero": "Action/Thriller/War",
+        "descricao": "An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rEm96ib0sPiZBADNKBHKBv5bve9.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Godzilla vs. Kong",
+        "ano": 2021,
+        "diretor": "Adam Wingard",
+        "genero": "Action/Sci-fi/Adventure",
+        "descricao": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Joker",
+        "ano": 2019,
+        "diretor": "Todd Phillips",
+        "genero": "Crime/Thriller/Drama",
+        "descricao": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "Parasite",
+        "ano": 2019,
+        "diretor": "Todd Phillips",
+        "genero": "Comedy/Thriller/Drama",
+        "descricao": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Interstellar",
+        "ano": 2014,
+        "diretor": "Christopher Nolan",
+        "genero": "Adventure/Drama/Sci-fi",
+        "descricao": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    },
+    {
+        "id": 11,
+        "nome": "Avatar",
+        "ano": 2009,
+        "diretor": "James Cameron",
+        "genero": "Action/Adventure/Fantasy/Sci-fi",
+        "descricao": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg"
+    },
+    {
+        "id": 12,
+        "nome": "The Wolf of Wall Street",
+        "ano": 2013,
+        "diretor": "Martin Scorsese",
+        "genero": "Crime/Drama/Comedy",
+        "descricao": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pWHf4khOloNVfCxscsXFj3jj6gP.jpg"
+    }
+
+    ]
+}

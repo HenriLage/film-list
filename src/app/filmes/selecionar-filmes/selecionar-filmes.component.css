@@ -1,0 +1,49 @@
+.filme-principal{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imagens{
+    margin: 5vw;
+}
+
+.botoes{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.mat-raised-button{
+    margin: 5px;
+}
+
+.info{
+    width: 40vw;
+    margin: 5vw
+}
+
+.poster{
+    width: 25vw;
+    min-width: 250px;
+}
+
+.info{
+    width: 400px;
+}
+
+
+
+@media (max-width: 888px) {
+    .info{
+      width: 250px;
+    }
+  }
+
+  @media (max-width: 500px) {
+    .filme-principal{
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+  }

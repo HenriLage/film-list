@@ -1,0 +1,24 @@
+<div class="home-content">
+  <mat-card class="home-card" *ngFor="let filme of filmes | filtroPorNome: filtroFilme">
+    <mat-expansion-panel hideToggle class="expansion-panel-class" 
+    #panel 
+    (mouseenter)="panel.open()"
+    (mouseleave)="panel.close()"
+    (click)="verFilme(filme)">
+      
+    <mat-expansion-panel-header>
+      <mat-card-header>        
+        <mat-card-title>{{filme.nome}} ({{filme.ano}})</mat-card-title>
+        <mat-card-subtitle>{{filme.genero}}</mat-card-subtitle>
+      </mat-card-header>
+      <img mat-card-image [src]="filme.poster">
+      </mat-expansion-panel-header>
+
+      <mat-card-content>
+        <p class="quebrar-linha">
+          {{filme.descricao || 'Nenhuma descrição informada'}}
+        </p>
+      </mat-card-content>
+    </mat-expansion-panel>
+  </mat-card>
+</div>
